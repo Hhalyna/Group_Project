@@ -28,7 +28,9 @@ public class Turkiye {
     }
     public static void baloonTurkiye(){
 
-        System.out.println("https://youtu.be/ecWKqG13gA0"+" You can fly with baloon in Turkiye");
+        System.out.println("https://youtu.be/ecWKqG13gA0"+" You can fly with baloon in Pamukkale");
+        System.out.println("https://youtu.be/Kj7uFlPEgdM"+" You can fly with baloon in Kapadokya");
+
     }
     public static void divingInTurkiye(){
         System.out.println("https://youtu.be/35nf0rCnZ6o"+" You can SCUBA diving in Turkiye");

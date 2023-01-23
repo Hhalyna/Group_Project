@@ -18,6 +18,7 @@ public class Turkiye {
     }
 
     public static void visitTurkiye(){
+        System.out.println("Visit Turkiye");
         System.out.println("https://youtu.be/O-fsiL5i9JY"+" You can visit Turkiye");
           }
 

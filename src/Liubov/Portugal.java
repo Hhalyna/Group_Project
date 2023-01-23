@@ -49,6 +49,14 @@ public class Portugal {
     }
 
 
+    public String toString() {
+        return "Portugal{" +
+                "nameOfCountry='" + nameOfCountry + '\'' +
+                ", capitalOfCountry='" + capitalOfCountry + '\'' +
+                ", population=" + population +
+                ", currency=" + currency +
+                '}';
+    }
 
 
 

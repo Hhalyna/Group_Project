@@ -23,6 +23,7 @@ public class Turkiye {
           }
 
     public static void flyInTurkiye(){
+        System.out.println("Visit Turkiye");
         System.out.println("https://youtu.be/AqsBjSdw9Zg"+" You can fly Turkiye");
         System.out.println("https://youtu.be/AqsBjSdw9Zg"+" You can fly Turkiye");
 
@@ -52,7 +53,7 @@ public class Turkiye {
     public static void main(String[] args) {
         Turkiye infoTr= new Turkiye("Turkish", "Ankara", "Istanbul", 85000000l, '₺');
         System.out.println(infoTr);
-
+        System.out.println("Visit Turkiye");
         flyInTurkiye();
         divingInTurkiye();
         baloonTurkiye();

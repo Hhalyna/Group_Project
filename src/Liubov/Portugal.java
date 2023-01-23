@@ -16,6 +16,39 @@ public class Portugal {
         setCurrency(currency);
     }
 
+    public String getNameOfCountry() {
+        return nameOfCountry;
+    }
+
+    public String getCapitalOfCountry() {
+        return capitalOfCountry;
+    }
+
+    public static String getOfficialLanguage() {
+        return officialLanguage;
+    }
+
+    public static void setOfficialLanguage(String officialLanguage) {
+        Portugal.officialLanguage = officialLanguage;
+    }
+
+    public int getPopulation() {
+        return population;
+    }
+
+    public void setPopulation(int population) {
+        this.population = population;
+    }
+
+    public char getCurrency() {
+        return currency;
+    }
+
+    public void setCurrency(char currency) {
+        this.currency = currency;
+    }
+
+
 
 
 
